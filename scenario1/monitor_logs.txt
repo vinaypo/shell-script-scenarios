@@ -1,0 +1,328 @@
+list the s3_buckets
+list the ec2 Instances
+"i-08c2390955aedc9ac"
+list the lamda
+{
+    "Functions": []
+}
+list the Iam users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "User1",
+            "UserId": "AIDA2ZIONBTE6TNP2O7X3",
+            "Arn": "arn:aws:iam::741448944841:user/User1",
+            "CreateDate": "2024-09-30T13:47:10+00:00",
+            "PasswordLastUsed": "2025-03-01T14:58:19+00:00"
+        }
+    ]
+}
+list the s3_buckets
+2025-03-01 17:01:46 monitors3bucket8213
+list the ec2 Instances
+"i-08c2390955aedc9ac"
+list the lamda
+{
+    "Functions": []
+}
+list the Iam users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "User1",
+            "UserId": "AIDA2ZIONBTE6TNP2O7X3",
+            "Arn": "arn:aws:iam::741448944841:user/User1",
+            "CreateDate": "2024-09-30T13:47:10+00:00",
+            "PasswordLastUsed": "2025-03-01T14:58:19+00:00"
+        }
+    ]
+}
+list the s3_buckets
+2025-03-01 17:01:46 monitors3bucket8213
+list the ec2 Instances
+"i-08c2390955aedc9ac"
+list the lamda
+{
+    "Functions": []
+}
+list the Iam users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "User1",
+            "UserId": "AIDA2ZIONBTE6TNP2O7X3",
+            "Arn": "arn:aws:iam::741448944841:user/User1",
+            "CreateDate": "2024-09-30T13:47:10+00:00",
+            "PasswordLastUsed": "2025-03-01T14:58:19+00:00"
+        }
+    ]
+}
+list the s3_buckets
+2025-03-01 17:01:46 monitors3bucket8213
+list the ec2 Instances
+"i-08c2390955aedc9ac"
+list the lamda
+{
+    "Functions": []
+}
+list the Iam users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "User1",
+            "UserId": "AIDA2ZIONBTE6TNP2O7X3",
+            "Arn": "arn:aws:iam::741448944841:user/User1",
+            "CreateDate": "2024-09-30T13:47:10+00:00",
+            "PasswordLastUsed": "2025-03-01T14:58:19+00:00"
+        }
+    ]
+}
+list the s3_buckets
+2025-03-01 17:01:46 monitors3bucket8213
+list the ec2 Instances
+"i-08c2390955aedc9ac"
+list the lamda
+{
+    "Functions": []
+}
+list the Iam users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "User1",
+            "UserId": "AIDA2ZIONBTE6TNP2O7X3",
+            "Arn": "arn:aws:iam::741448944841:user/User1",
+            "CreateDate": "2024-09-30T13:47:10+00:00",
+            "PasswordLastUsed": "2025-03-01T14:58:19+00:00"
+        }
+    ]
+}
+list the s3_buckets
+2025-03-01 17:01:46 monitors3bucket8213
+list the ec2 Instances
+"i-08c2390955aedc9ac"
+list the lamda
+{
+    "Functions": []
+}
+list the Iam users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "User1",
+            "UserId": "AIDA2ZIONBTE6TNP2O7X3",
+            "Arn": "arn:aws:iam::741448944841:user/User1",
+            "CreateDate": "2024-09-30T13:47:10+00:00",
+            "PasswordLastUsed": "2025-03-01T14:58:19+00:00"
+        }
+    ]
+}
+list the s3_buckets
+2025-03-01 17:01:46 monitors3bucket8213
+list the ec2 Instances
+"i-08c2390955aedc9ac"
+list the lamda
+{
+    "Functions": []
+}
+list the Iam users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "User1",
+            "UserId": "AIDA2ZIONBTE6TNP2O7X3",
+            "Arn": "arn:aws:iam::741448944841:user/User1",
+            "CreateDate": "2024-09-30T13:47:10+00:00",
+            "PasswordLastUsed": "2025-03-01T14:58:19+00:00"
+        }
+    ]
+}
+list the s3_buckets
+2025-03-01 17:01:46 monitors3bucket8213
+list the ec2 Instances
+"i-08c2390955aedc9ac"
+list the lamda
+{
+    "Functions": []
+}
+list the Iam users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "User1",
+            "UserId": "AIDA2ZIONBTE6TNP2O7X3",
+            "Arn": "arn:aws:iam::741448944841:user/User1",
+            "CreateDate": "2024-09-30T13:47:10+00:00",
+            "PasswordLastUsed": "2025-03-01T14:58:19+00:00"
+        }
+    ]
+}
+list the s3_buckets
+2025-03-01 17:01:46 monitors3bucket8213
+list the ec2 Instances
+"i-08c2390955aedc9ac"
+list the lamda
+{
+    "Functions": []
+}
+list the Iam users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "User1",
+            "UserId": "AIDA2ZIONBTE6TNP2O7X3",
+            "Arn": "arn:aws:iam::741448944841:user/User1",
+            "CreateDate": "2024-09-30T13:47:10+00:00",
+            "PasswordLastUsed": "2025-03-01T14:58:19+00:00"
+        }
+    ]
+}
+list the s3_buckets
+list the ec2 Instances
+"i-08c2390955aedc9ac"
+list the lamda
+{
+    "Functions": []
+}
+list the Iam users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "User1",
+            "UserId": "AIDA2ZIONBTE6TNP2O7X3",
+            "Arn": "arn:aws:iam::741448944841:user/User1",
+            "CreateDate": "2024-09-30T13:47:10+00:00",
+            "PasswordLastUsed": "2025-03-01T14:58:19+00:00"
+        }
+    ]
+}
+list the s3_buckets
+list the ec2 Instances
+"i-08c2390955aedc9ac"
+list the lamda
+{
+    "Functions": []
+}
+list the Iam users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "User1",
+            "UserId": "AIDA2ZIONBTE6TNP2O7X3",
+            "Arn": "arn:aws:iam::741448944841:user/User1",
+            "CreateDate": "2024-09-30T13:47:10+00:00",
+            "PasswordLastUsed": "2025-03-01T14:58:19+00:00"
+        }
+    ]
+}
+list the s3_buckets
+list the ec2 Instances
+"i-08c2390955aedc9ac"
+list the lamda
+{
+    "Functions": []
+}
+list the Iam users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "User1",
+            "UserId": "AIDA2ZIONBTE6TNP2O7X3",
+            "Arn": "arn:aws:iam::741448944841:user/User1",
+            "CreateDate": "2024-09-30T13:47:10+00:00",
+            "PasswordLastUsed": "2025-03-01T14:58:19+00:00"
+        }
+    ]
+}
+list the s3_buckets
+list the ec2 Instances
+"i-08c2390955aedc9ac"
+list the lamda
+{
+    "Functions": []
+}
+list the Iam users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "User1",
+            "UserId": "AIDA2ZIONBTE6TNP2O7X3",
+            "Arn": "arn:aws:iam::741448944841:user/User1",
+            "CreateDate": "2024-09-30T13:47:10+00:00",
+            "PasswordLastUsed": "2025-03-01T14:58:19+00:00"
+        }
+    ]
+}
+list the s3_buckets
+list the ec2 Instances
+"i-08c2390955aedc9ac"
+list the lamda
+{
+    "Functions": []
+}
+list the Iam users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "User1",
+            "UserId": "AIDA2ZIONBTE6TNP2O7X3",
+            "Arn": "arn:aws:iam::741448944841:user/User1",
+            "CreateDate": "2024-09-30T13:47:10+00:00",
+            "PasswordLastUsed": "2025-03-01T14:58:19+00:00"
+        }
+    ]
+}
+list the s3_buckets
+list the ec2 Instances
+"i-08c2390955aedc9ac"
+list the lamda
+{
+    "Functions": []
+}
+list the Iam users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "User1",
+            "UserId": "AIDA2ZIONBTE6TNP2O7X3",
+            "Arn": "arn:aws:iam::741448944841:user/User1",
+            "CreateDate": "2024-09-30T13:47:10+00:00",
+            "PasswordLastUsed": "2025-03-01T14:58:19+00:00"
+        }
+    ]
+}
+list the s3_buckets
+list the ec2 Instances
+"i-08c2390955aedc9ac"
+list the lamda
+{
+    "Functions": []
+}
+list the Iam users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "User1",
+            "UserId": "AIDA2ZIONBTE6TNP2O7X3",
+            "Arn": "arn:aws:iam::741448944841:user/User1",
+            "CreateDate": "2024-09-30T13:47:10+00:00",
+            "PasswordLastUsed": "2025-03-01T14:58:19+00:00"
+        }
+    ]
+}
