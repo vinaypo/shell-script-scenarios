@@ -1,0 +1,592 @@
+Print list of S3 Buckets
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+Print the Lambda functions
+{
+    "Functions": [
+        {
+            "FunctionName": "s3-lambda-function",
+            "FunctionArn": "arn:aws:lambda:us-east-1:741448944841:function:s3-lambda-function",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::741448944841:role/s3-lambda-sns",
+            "Handler": "s3-lambda-function/s3-lambda-function.lambda_handler",
+            "CodeSize": 1168,
+            "Description": "",
+            "Timeout": 30,
+            "MemorySize": 128,
+            "LastModified": "2025-03-06T16:33:38.628+0000",
+            "CodeSha256": "h+ta75+EgMgS+u5dAME+wHXUAk2uqmU5wCn2YuXbp38=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "4da4571e-5d1a-47ea-825d-284e709ee12e",
+            "PackageType": "Zip",
+            "Architectures": [
+                "x86_64"
+            ],
+            "EphemeralStorage": {
+                "Size": 512
+            },
+            "SnapStart": {
+                "ApplyOn": "None",
+                "OptimizationStatus": "Off"
+            },
+            "LoggingConfig": {
+                "LogFormat": "Text",
+                "LogGroup": "/aws/lambda/s3-lambda-function"
+            }
+        }
+    ]
+}
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+Print the Lambda functions
+{
+    "Functions": [
+        {
+            "FunctionName": "s3-lambda-function",
+            "FunctionArn": "arn:aws:lambda:us-east-1:741448944841:function:s3-lambda-function",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::741448944841:role/s3-lambda-sns",
+            "Handler": "s3-lambda-function/s3-lambda-function.lambda_handler",
+            "CodeSize": 1168,
+            "Description": "",
+            "Timeout": 30,
+            "MemorySize": 128,
+            "LastModified": "2025-03-06T16:33:38.628+0000",
+            "CodeSha256": "h+ta75+EgMgS+u5dAME+wHXUAk2uqmU5wCn2YuXbp38=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "4da4571e-5d1a-47ea-825d-284e709ee12e",
+            "PackageType": "Zip",
+            "Architectures": [
+                "x86_64"
+            ],
+            "EphemeralStorage": {
+                "Size": 512
+            },
+            "SnapStart": {
+                "ApplyOn": "None",
+                "OptimizationStatus": "Off"
+            },
+            "LoggingConfig": {
+                "LogFormat": "Text",
+                "LogGroup": "/aws/lambda/s3-lambda-function"
+            }
+        }
+    ]
+}
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+Print the Lambda functions
+{
+    "Functions": [
+        {
+            "FunctionName": "s3-lambda-function",
+            "FunctionArn": "arn:aws:lambda:us-east-1:741448944841:function:s3-lambda-function",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::741448944841:role/s3-lambda-sns",
+            "Handler": "s3-lambda-function/s3-lambda-function.lambda_handler",
+            "CodeSize": 1168,
+            "Description": "",
+            "Timeout": 30,
+            "MemorySize": 128,
+            "LastModified": "2025-03-06T16:33:38.628+0000",
+            "CodeSha256": "h+ta75+EgMgS+u5dAME+wHXUAk2uqmU5wCn2YuXbp38=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "4da4571e-5d1a-47ea-825d-284e709ee12e",
+            "PackageType": "Zip",
+            "Architectures": [
+                "x86_64"
+            ],
+            "EphemeralStorage": {
+                "Size": 512
+            },
+            "SnapStart": {
+                "ApplyOn": "None",
+                "OptimizationStatus": "Off"
+            },
+            "LoggingConfig": {
+                "LogFormat": "Text",
+                "LogGroup": "/aws/lambda/s3-lambda-function"
+            }
+        }
+    ]
+}
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+Print the Lambda functions
+{
+    "Functions": [
+        {
+            "FunctionName": "s3-lambda-function",
+            "FunctionArn": "arn:aws:lambda:us-east-1:741448944841:function:s3-lambda-function",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::741448944841:role/s3-lambda-sns",
+            "Handler": "s3-lambda-function/s3-lambda-function.lambda_handler",
+            "CodeSize": 1168,
+            "Description": "",
+            "Timeout": 30,
+            "MemorySize": 128,
+            "LastModified": "2025-03-06T16:33:38.628+0000",
+            "CodeSha256": "h+ta75+EgMgS+u5dAME+wHXUAk2uqmU5wCn2YuXbp38=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "4da4571e-5d1a-47ea-825d-284e709ee12e",
+            "PackageType": "Zip",
+            "Architectures": [
+                "x86_64"
+            ],
+            "EphemeralStorage": {
+                "Size": 512
+            },
+            "SnapStart": {
+                "ApplyOn": "None",
+                "OptimizationStatus": "Off"
+            },
+            "LoggingConfig": {
+                "LogFormat": "Text",
+                "LogGroup": "/aws/lambda/s3-lambda-function"
+            }
+        }
+    ]
+}
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+Print the Lambda functions
+{
+    "Functions": [
+        {
+            "FunctionName": "s3-lambda-function",
+            "FunctionArn": "arn:aws:lambda:us-east-1:741448944841:function:s3-lambda-function",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::741448944841:role/s3-lambda-sns",
+            "Handler": "s3-lambda-function/s3-lambda-function.lambda_handler",
+            "CodeSize": 1168,
+            "Description": "",
+            "Timeout": 30,
+            "MemorySize": 128,
+            "LastModified": "2025-03-06T16:33:38.628+0000",
+            "CodeSha256": "h+ta75+EgMgS+u5dAME+wHXUAk2uqmU5wCn2YuXbp38=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "4da4571e-5d1a-47ea-825d-284e709ee12e",
+            "PackageType": "Zip",
+            "Architectures": [
+                "x86_64"
+            ],
+            "EphemeralStorage": {
+                "Size": 512
+            },
+            "SnapStart": {
+                "ApplyOn": "None",
+                "OptimizationStatus": "Off"
+            },
+            "LoggingConfig": {
+                "LogFormat": "Text",
+                "LogGroup": "/aws/lambda/s3-lambda-function"
+            }
+        }
+    ]
+}
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+Print the Lambda functions
+{
+    "Functions": [
+        {
+            "FunctionName": "s3-lambda-function",
+            "FunctionArn": "arn:aws:lambda:us-east-1:741448944841:function:s3-lambda-function",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::741448944841:role/s3-lambda-sns",
+            "Handler": "s3-lambda-function/s3-lambda-function.lambda_handler",
+            "CodeSize": 1168,
+            "Description": "",
+            "Timeout": 30,
+            "MemorySize": 128,
+            "LastModified": "2025-03-06T16:33:38.628+0000",
+            "CodeSha256": "h+ta75+EgMgS+u5dAME+wHXUAk2uqmU5wCn2YuXbp38=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "4da4571e-5d1a-47ea-825d-284e709ee12e",
+            "PackageType": "Zip",
+            "Architectures": [
+                "x86_64"
+            ],
+            "EphemeralStorage": {
+                "Size": 512
+            },
+            "SnapStart": {
+                "ApplyOn": "None",
+                "OptimizationStatus": "Off"
+            },
+            "LoggingConfig": {
+                "LogFormat": "Text",
+                "LogGroup": "/aws/lambda/s3-lambda-function"
+            }
+        }
+    ]
+}
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+Print the Lambda functions
+{
+    "Functions": [
+        {
+            "FunctionName": "s3-lambda-function",
+            "FunctionArn": "arn:aws:lambda:us-east-1:741448944841:function:s3-lambda-function",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::741448944841:role/s3-lambda-sns",
+            "Handler": "s3-lambda-function/s3-lambda-function.lambda_handler",
+            "CodeSize": 1168,
+            "Description": "",
+            "Timeout": 30,
+            "MemorySize": 128,
+            "LastModified": "2025-03-06T16:33:38.628+0000",
+            "CodeSha256": "h+ta75+EgMgS+u5dAME+wHXUAk2uqmU5wCn2YuXbp38=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "4da4571e-5d1a-47ea-825d-284e709ee12e",
+            "PackageType": "Zip",
+            "Architectures": [
+                "x86_64"
+            ],
+            "EphemeralStorage": {
+                "Size": 512
+            },
+            "SnapStart": {
+                "ApplyOn": "None",
+                "OptimizationStatus": "Off"
+            },
+            "LoggingConfig": {
+                "LogFormat": "Text",
+                "LogGroup": "/aws/lambda/s3-lambda-function"
+            }
+        }
+    ]
+}
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+Print the Lambda functions
+{
+    "Functions": [
+        {
+            "FunctionName": "s3-lambda-function",
+            "FunctionArn": "arn:aws:lambda:us-east-1:741448944841:function:s3-lambda-function",
+            "Runtime": "python3.8",
+            "Role": "arn:aws:iam::741448944841:role/s3-lambda-sns",
+            "Handler": "s3-lambda-function/s3-lambda-function.lambda_handler",
+            "CodeSize": 1168,
+            "Description": "",
+            "Timeout": 30,
+            "MemorySize": 128,
+            "LastModified": "2025-03-06T16:33:38.628+0000",
+            "CodeSha256": "h+ta75+EgMgS+u5dAME+wHXUAk2uqmU5wCn2YuXbp38=",
+            "Version": "$LATEST",
+            "TracingConfig": {
+                "Mode": "PassThrough"
+            },
+            "RevisionId": "4da4571e-5d1a-47ea-825d-284e709ee12e",
+            "PackageType": "Zip",
+            "Architectures": [
+                "x86_64"
+            ],
+            "EphemeralStorage": {
+                "Size": 512
+            },
+            "SnapStart": {
+                "ApplyOn": "None",
+                "OptimizationStatus": "Off"
+            },
+            "LoggingConfig": {
+                "LogFormat": "Text",
+                "LogGroup": "/aws/lambda/s3-lambda-function"
+            }
+        }
+    ]
+}
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+Print the Lambda functions
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+Print the Lambda functions
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+Print the Lambda functions
+"s3-lambda-function"
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+Print the Lambda functions
+"s3-lambda-function"
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+Print the Lambda functions
+"s3-lambda-function"
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+Print the Lambda functions
+"s3-lambda-function"
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+Print the Lambda functions
+"s3-lambda-function"
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+Print the Lambda functions
+"s3-lambda-function"
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+Print the Lambda functions
+"s3-lambda-function"
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+
+
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+
+
+Print the Lambda functions
+"s3-lambda-function"
+
+
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 18:57:59 dfagerrgbrfae
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+
+
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+
+
+Print the Lambda functions
+"s3-lambda-function"
+
+
+Print the IAM-Users
+"User1"
+Print list of S3 Buckets
+2025-03-06 18:57:59 dfagerrgbrfae
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+
+
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+
+
+Print the Lambda functions
+"s3-lambda-function"
+
+
+Print the IAM-Users
+"User1"
+
+
+--------------------------------------------
+Print list of S3 Buckets
+2025-03-06 18:57:59 dfagerrgbrfae
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+
+
+--------------------------------------------
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+
+
+--------------------------------------------
+Print the Lambda functions
+"s3-lambda-function"
+
+
+--------------------------------------------
+Print the IAM-Users
+"User1"
+
+
+---------------------------------------------
+--------------------------------------------
+Print list of S3 Buckets
+2025-03-06 18:57:59 dfagerrgbrfae
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+
+
+--------------------------------------------
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+
+
+--------------------------------------------
+Print the Lambda functions
+"s3-lambda-function"
+
+
+--------------------------------------------
+Print the IAM-Users
+"User1"
+
+
+---------------------------------------------
+--------------------------------------------
+Print list of S3 Buckets
+2025-03-06 18:57:59 dfagerrgbrfae
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+
+
+--------------------------------------------
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+
+
+--------------------------------------------
+Print the Lambda functions
+"s3-lambda-function"
+
+
+--------------------------------------------
+Print the IAM-Users
+"User1"
+
+
+---------------------------------------------
+--------------------------------------------
+Print list of S3 Buckets
+2025-03-06 18:57:59 dfagerrgbrfae
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+
+
+--------------------------------------------
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+
+
+--------------------------------------------
+Print the Lambda functions
+"s3-lambda-function"
+
+
+--------------------------------------------
+Print the IAM-Users
+"User1"
+
+
+---------------------------------------------
+--------------------------------------------
+Print list of S3 Buckets
+2025-03-06 18:57:59 dfagerrgbrfae
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+
+
+--------------------------------------------
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+
+
+--------------------------------------------
+Print the Lambda functions
+"s3-lambda-function"
+
+
+--------------------------------------------
+Print the IAM-Users
+"User1"
+
+
+---------------------------------------------
+--------------------------------------------
+Print list of S3 Buckets
+2025-03-06 18:57:59 dfagerrgbrfae
+2025-03-06 16:33:32 vinay8213-ultimate-bucket
+--------------------------------------------
+Print the Ec2-Instances
+"i-02447b754cd46b550"
+--------------------------------------------
+Print the Lambda functions
+"s3-lambda-function"
+--------------------------------------------
+Print the IAM-Users
+"User1"
+---------------------------------------------
