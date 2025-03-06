@@ -1,3 +1,5 @@
+# AWS S3 Event Triggering
+
 NOTE: REPLACE YOUR AWS ACCOUNT ID IN THE LAMBDA FUNCTION CODE.
 
 AWS S3 Event triggering is a very popular project used by top companies in the Industry.
@@ -10,5 +12,4 @@ Airbnb: This lodging and homestays aggregator use S3 event triggering to automat
 
 Expedia: They use S3 event triggering to automatically process and analyze data stored in Amazon S3, such as travel bookings, user profiles, and pricing information, to power their personalized travel recommendations and search features.
 
-### S3-event-trigger
-![s3-lambda-trigger] (https://github.com/vinaypo/shell-script-scenarios/blob/main/scenario1/assests/s3-lambda-trigger.png)
+![Screenshot 2023-04-14 at 7 06 46 PM](https://user-images.githubusercontent.com/43399466/232058778-a7299e9b-9892-471c-a05d-14d773b5b333.png)
