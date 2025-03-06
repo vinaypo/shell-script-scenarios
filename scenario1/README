@@ -10,4 +10,4 @@ Airbnb: This lodging and homestays aggregator use S3 event triggering to automat
 
 Expedia: They use S3 event triggering to automatically process and analyze data stored in Amazon S3, such as travel bookings, user profiles, and pricing information, to power their personalized travel recommendations and search features.
 
-![s3-lambda-trigger.png](https://github.com/vinaypo/shell-script-scenarios/blob/main/scenario2/s3-lambda-trigger.png?raw=true)
+![s3-lambda-trigger.png]
