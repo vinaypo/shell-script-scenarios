@@ -18,4 +18,4 @@ to list the edited crontab
 ```
 crontab -l
 ```
-monitor_logs.txt file will be loaded with the resource details every minute @18
+monitor_logs.txt file will be loaded with the resource details every minute @19
