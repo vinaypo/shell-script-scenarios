@@ -1,6 +1,8 @@
 import boto3
 import json
 
+s3 = boto3.client('s3')
+
 def lambda_handler(event, context):
     # Extract relevant information from the S3 event trigger
     bucket_name = event['Records'][0]['s3']['bucket']['name']
@@ -11,7 +13,7 @@ def lambda_handler(event, context):
 
     # Example: Send a notification via SNS
     sns_client = boto3.client('sns')
-    topic_arn = 'arn:aws:sns:us-east-1:<account-id>:s3-lambda-sns'
+    topic_arn = 'arn:aws:sns:us-east-1:<account-id>:mytopic123'
     sns_client.publish(
        TopicArn=topic_arn,
        Subject='S3 Object Created',
