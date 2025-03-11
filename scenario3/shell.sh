@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ $# -gt 0 ]; then              # Checks if the number of arguments provided is greater than 0
-    aws --version &>/dev/null      # Redirects the output of the command to /dev/null
+    aws --version 2>/dev/null      # Redirects the output of the command to /dev/null
     if [ $? -eq 0 ]; then          # Checks if the exit status of the last command is 0
         REGIONS="$@"               # Stores all the arguments provided
         for REGION in $REGIONS; do # Loops through each argument provided
